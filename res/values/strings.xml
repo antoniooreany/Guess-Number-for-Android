@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_button">Enter</string>
+    <string name="reset_button">Reset</string>
+    <string name="result_less_than_the_number">Your guess is less than the NUMBER</string>
+    <string name="result_more_than_the_number">Your guess is more than the NUMBER</string>
+    <string name="You_are_right">!!!You\'re right!!!</string>
+</resources>
